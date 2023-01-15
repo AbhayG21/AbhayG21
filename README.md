@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhay Gupta</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">, I'm Abhay Gupta</h1>
 <h3 align="center">A passionate Engineering student currently in 2nd Year</h3>
 
 
